@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11828.311 oobstable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoulinTools", "SoulinTools.csproj", "{CA5BA63A-2257-E87A-DD46-6FE23FB72E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA5BA63A-2257-E87A-DD46-6FE23FB72E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5BA63A-2257-E87A-DD46-6FE23FB72E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5BA63A-2257-E87A-DD46-6FE23FB72E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5BA63A-2257-E87A-DD46-6FE23FB72E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A13D9C39-A63C-4F8F-BBF6-E1DB1BF8E603}
+	EndGlobalSection
+EndGlobal
